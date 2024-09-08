@@ -6,6 +6,4 @@
 
 # Need to install
 
-# How to run
-
 # How to use
