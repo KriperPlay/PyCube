@@ -1,0 +1,11 @@
+{
+    "camera-mode_fov": 60,
+    "player-mode_fov": 90,
+    "slot1": "grass",
+    "slot2": "brick",
+    "slot3": "wood",
+    "slot4": "glass",
+    "slot5": "water",
+    "slot6": "lava",
+    "slot7": "stone"
+}
