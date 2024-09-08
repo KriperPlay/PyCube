@@ -71,7 +71,10 @@ CONFIG
   }
   ```
 
-# SCREENSHOTS
+# Examples
+examples of worlds in dir 'examples'
+
+# Screenshots
 * # player-mode
 * * ![изображение](https://github.com/user-attachments/assets/36fd2f68-957e-4968-be4f-2a5e64dff075)
 * # camera-mode
