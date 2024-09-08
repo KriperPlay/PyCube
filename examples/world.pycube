@@ -1,0 +1,11 @@
+grass {8x8y0}
+trunk [x5y1z5]
+trunk [x5y2z5]
+trunk [x5y3z5]
+leaves [x5y4z5]
+leaves [x6y3z5]
+leaves [x5y3z4]
+clouds {12x12y-10}
+clouds {12x-12y-10}
+clouds {-12x12y-10}
+clouds {-12x-12y-10}
