@@ -6,7 +6,7 @@
 Check LICENSE file
 
 # About
-PyCube - voxel game and world editor
+PyCube - voxel game with world editor in file
 (not minecraft copy)
 
 # Need to install
