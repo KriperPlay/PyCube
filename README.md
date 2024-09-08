@@ -40,14 +40,14 @@ MODES
 * * ```python3 main.py camera-mode file.pycube```
   * you can look around the world.
 
-HOW TO CREATE WORLD IN FILES
+HOW TO CREATE WORLDS IN FILES
 (the block name is the texture name without extension, check paragraph 'BLOCKS LIST')
 * place platform
-* * block_name{0x0y}
+* * ```block_name{0x0y}```
   * 0 and 0 - size a platform
   * y - platform location in y
 * place a block
-* * block_name[x0y0z0]
+* * ```block_name[x0y0z0]```
   * here you indicate the coordinates of the block
 
 BLOCKS LIST
