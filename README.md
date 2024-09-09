@@ -35,7 +35,7 @@ MODES
   * 'e' - up (fly-mode)
   * 'right click' - place block
   * 'left click' - destroy block
-  * '`1-7' - choose a block for placed (configure blocks locations can in 'setting.json')
+  * '`1-7' - choose a block for placed (configure blocks locations can in 'settings.json')
 * camera-mode
 * * ```python3 main.py camera-mode file.pycube```
   * you can look around the world.
@@ -55,7 +55,7 @@ BLOCKS LIST
 * once you add a texture to this folder, it will be immediately ready to use
 
 CONFIG
-* config - 'setting.json'
+* config - 'settings.json'
 * in config you can configure a blocks locations for '1-7' for placed their in player-mode and configure FOV for player-mode and camera-mode
 * ```json
   {
